@@ -29,7 +29,7 @@ The simulation reached convergence after 54 iterations, with scaled residuals dr
 ## 📂 Repository Contents
 - `pipe-tee-r20mm-solid.cas.h5`: Case file (mesh and setup).
 - `pipe-tee-r20mm-solid.dat.h5`: Data file (simulation results).
-- `results.png`: Convergence history plot.
+- `convergence_plot.png`: Convergence history plot.
 - `pressureprofile.png`: Static pressure contour plot.
 - `velocityprofile.png`: Velocity magnitude and cross-sectional profile plot.
 
