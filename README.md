@@ -17,7 +17,7 @@ This repository contains a Computational Fluid Dynamics (CFD) simulation of a Y-
 ## 📉 Convergence History
 The simulation reached convergence after 54 iterations, with scaled residuals dropping below the 1e-03 criteria, ensuring a stable and reliable numerical solution.
 
-![Convergence Plot](results.png)
+![Convergence Plot](convergence_plot.png)
 
 ## 📸 Visualizations
 ### Static Pressure Profile
